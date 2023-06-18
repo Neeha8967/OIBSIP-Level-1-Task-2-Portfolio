@@ -214,7 +214,7 @@ section .title::after {
 .home {
   position: relative;
   display: flex;
-  background: url("Me_1.jpg") no-repeat center;
+  background: url("Me.jpg") no-repeat center;
   height: 100vh;
   color: #fff;
   min-height: 500px;
