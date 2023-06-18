@@ -49,7 +49,7 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing-2", {
     strings: [
-      "Avik Saha Roy"
+      "Neeha Ghosh"
     ],
     typeSpeed: 100,
     backSpeed: 60,
